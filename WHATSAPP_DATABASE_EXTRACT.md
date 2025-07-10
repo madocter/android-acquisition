@@ -69,7 +69,6 @@ As for media files of whatsapp is located here: `\Android\media\com.whatsapp\Wha
      python .\wadecrypt.py <64digitkey> msgstore.db.crypt15 msgstore.db
      ```
 
-python .\wadecrypt.py 69b841d22c64ed69d139cc2b0342925a765a6a86c3348fb7322f5b1b0114c145 msgstore.db.crypt15 msgstore.db
 2. **View the Decrypted Database**:
     - The decrypted `.db` files can be opened and viewed using any SQLite explorer: https://sqlitebrowser.org/dl/
     - Investigate the database design to navigate the decrypted results. The structure is straightforward, and table names are descriptive.
