@@ -110,3 +110,4 @@ If your phone is root you can in theory (not tested) just copy previous backup i
 
 ### Notes:
 - Handle the 64-digit encryption key and decrypted data carefully to ensure your privacy and security.
+- If you want to merge different whatsapp version might check: https://github.com/salozubz/WhatsApp-Db-Merger/tree/main
